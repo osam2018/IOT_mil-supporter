@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\MillSuppoter\bin\Debug\MillSuppoter.exe.config
+C:\Users\Administrator\source\repos\MillSuppoter\bin\Debug\MillSuppoter.exe
+C:\Users\Administrator\source\repos\MillSuppoter\bin\Debug\MillSuppoter.pdb
+C:\Users\Administrator\source\repos\MillSuppoter\obj\Debug\MillSuppoter.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MillSuppoter\obj\Debug\MillSuppoter.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MillSuppoter\obj\Debug\MillSuppoter.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MillSuppoter\obj\Debug\MillSuppoter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MillSuppoter\obj\Debug\MillSuppoter.exe
+C:\Users\Administrator\source\repos\MillSuppoter\obj\Debug\MillSuppoter.pdb
+C:\Users\Administrator\source\repos\MillSuppoter\obj\Debug\MillSuppoter.ConnetCom.resources
+C:\Users\Administrator\source\repos\MillSuppoter\obj\Debug\MillSuppoter.MainForm.resources
